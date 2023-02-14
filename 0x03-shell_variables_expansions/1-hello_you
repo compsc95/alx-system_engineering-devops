@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $DESKTOP-P18DPKJ"
+echo "hello $USER"
